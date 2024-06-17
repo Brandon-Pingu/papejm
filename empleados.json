@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "Breck Castillo",
+    "edad": "16",
+    "turno": "matutino",
+    "fecha": "16/06/24",
+    "sueldo": "10"
+  },
+  {
+    "nombre": "Christian Cárdenas",
+    "edad": "16",
+    "turno": "vespertino",
+    "fecha": "16/06/24",
+    "sueldo": "10"
+  },
+  {
+    "nombre": "Ivy Rojas",
+    "edad": "16",
+    "turno": "matutino",
+    "fecha": "16/06/24",
+    "sueldo": "10"
+  },
+  {
+    "nombre": "Rodrigo Flores",
+    "edad": "16",
+    "turno": "Matutino",
+    "sueldo": "1",
+    "fecha": "16/06/24"
+  }
+]
